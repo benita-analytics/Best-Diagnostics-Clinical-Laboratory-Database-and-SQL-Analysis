@@ -98,10 +98,10 @@ ORDER BY total_revenue DESC;
 ```
 
 ## How To Run
--Clone the repository:
+- Clone the repository:
    ```bash
    git clone https://github.com/benita-analytics/Best-Diagnostics-Clinical-Laboratory-Database-and-SQL-Analysis.git
-```
+
 - Install SQL Server and SSMS.
 - Create a new database.
 - Run the provided schema.sql file to create tables.
