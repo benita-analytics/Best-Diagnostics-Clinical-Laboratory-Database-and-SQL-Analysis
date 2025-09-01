@@ -1,0 +1,147 @@
+paymentID,requestID,amount_paid,payment_type,transactionID,hmo_id,transaction_description,payment_date
+1,152,20000,POS,TXN00001,,Payment for test ,2024-07-20 09:16:00
+2,153,0,HMO,TXN00002,,Payment for test ,2024-11-15 09:56:00
+3,154,3000,Corporate,TXN00003,,Payment for test ,2024-09-16 00:51:00
+4,155,0,HMO,TXN00004,5,Payment for test ,2025-05-20 11:44:00
+5,156,1500,Bank Transfer,TXN00005,,Payment for test ,2025-03-09 08:13:00
+6,157,2500,Online,TXN00006,,Payment for test ,2025-01-06 23:17:00
+7,158,3500,Bank Transfer,TXN00007,,Payment for test ,2025-05-31 09:55:00
+8,159,2500,Paystack,TXN00008,,Payment for test ,2025-04-05 02:30:00
+9,160,3500,POS,TXN00009,,Payment for test ,2025-07-03 11:45:00
+10,161,3000,Cash,TXN00010,,Payment for test ,2024-11-29 19:35:00
+11,162,12000,Corporate,TXN00011,,Payment for test ,2024-08-16 12:18:00
+12,163,3500,Corporate,TXN00012,,Payment for test ,2024-12-27 21:19:00
+13,164,12000,POS,TXN00013,,Payment for test ,2025-06-05 06:02:00
+14,165,0,HMO,TXN00014,2,Payment for test ,2024-08-21 09:35:00
+15,166,1800,Paystack,TXN00015,,Payment for test ,2024-10-15 18:45:00
+16,167,3500,Paystack,TXN00016,,Payment for test ,2024-12-28 11:40:00
+17,168,2500,MobileWallet,TXN00017,,Payment for test ,2025-02-25 23:33:00
+18,169,1500,Cash,TXN00018,,Payment for test ,2024-12-13 19:20:00
+19,170,3500,Corporate,TXN00019,,Payment for test ,2025-02-01 18:33:00
+20,171,2500,Paystack,TXN00020,,Payment for test ,2024-08-10 19:55:00
+21,172,3000,Online,TXN00021,,Payment for test ,2024-12-13 23:41:00
+22,173,0,HMO,TXN00022,1,Payment for test ,2025-06-14 08:45:00
+23,174,1800,MobileWallet,TXN00023,,Payment for test ,2024-11-09 18:50:00
+24,175,2500,Paystack,TXN00024,,Payment for test ,2025-04-27 22:17:00
+25,176,12000,Cash,TXN00025,,Payment for test ,2024-11-20 03:22:00
+26,177,1500,Corporate,TXN00026,,Payment for test ,2024-10-05 08:04:00
+27,178,1500,MobileWallet,TXN00027,,Payment for test ,2024-11-19 15:18:00
+28,179,0,HMO,TXN00028,4,Payment for test ,2025-05-10 20:47:00
+29,180,2500,Cash,TXN00029,,Payment for test ,2024-09-15 13:59:00
+30,181,2500,Cash,TXN00030,,Payment for test ,2024-08-11 22:47:00
+31,182,12000,Online,TXN00031,,Payment for test ,2025-01-26 12:55:00
+32,183,1800,MobileWallet,TXN00032,,Payment for test ,2025-03-14 04:57:00
+33,184,1800,Corporate,TXN00033,,Payment for test ,2024-08-26 13:41:00
+34,185,3000,Paystack,TXN00034,,Payment for test ,2025-02-04 08:28:00
+35,186,3500,MobileWallet,TXN00035,,Payment for test ,2025-01-27 07:58:00
+36,187,1500,Bank Transfer,TXN00036,,Payment for test ,2024-09-24 14:11:00
+37,188,3500,Bank Transfer,TXN00037,,Payment for test ,2025-06-29 02:41:00
+38,189,0,HMO,TXN00038,3,Payment for test ,2025-05-10 17:51:00
+39,190,0,HMO,TXN00039,2,Payment for test ,2024-11-23 23:17:00
+40,191,2500,Corporate,TXN00040,,Payment for test ,2024-11-26 15:21:00
+41,192,3500,Cash,TXN00041,,Payment for test ,2025-04-19 18:32:00
+42,193,2500,Cash,TXN00042,,Payment for test ,2025-05-25 08:02:00
+43,194,0,HMO,TXN00043,4,Payment for test ,2025-03-20 22:50:00
+44,195,2500,Paystack,TXN00044,,Payment for test ,2025-05-23 19:34:00
+45,196,12000,POS,TXN00045,,Payment for test ,2024-09-07 15:26:00
+46,197,0,HMO,TXN00046,2,Payment for test ,2024-10-12 01:03:00
+47,198,12000,MobileWallet,TXN00047,,Payment for test ,2024-08-22 05:05:00
+48,199,0,HMO,TXN00048,4,Payment for test ,2024-09-08 03:50:00
+49,200,2500,Paystack,TXN00049,,Payment for test ,2024-10-20 16:40:00
+50,201,3000,MobileWallet,TXN00050,,Payment for test ,2024-09-26 21:35:00
+51,202,3500,Cash,TXN00051,,Payment for test ,2024-09-17 16:00:00
+52,203,0,HMO,TXN00052,,Payment for test ,2025-03-02 05:38:00
+53,204,3500,Corporate,TXN00053,,Payment for test ,2024-09-10 15:43:00
+54,205,3000,MobileWallet,TXN00054,,Payment for test ,2025-05-04 12:35:00
+55,206,1500,Cash,TXN00055,,Payment for test ,2025-05-04 02:41:00
+56,207,3000,Paystack,TXN00056,,Payment for test ,2025-03-23 20:39:00
+57,208,2500,Online,TXN00057,,Payment for test ,2024-08-11 13:13:00
+58,209,3000,Cash,TXN00058,,Payment for test ,2024-09-20 02:00:00
+59,210,2500,Paystack,TXN00059,,Payment for test ,2025-05-07 10:20:00
+60,211,1500,Corporate,TXN00060,,Payment for test ,2025-03-12 03:47:00
+61,212,12000,Online,TXN00061,,Payment for test ,2025-01-19 04:23:00
+62,213,3000,Bank Transfer,TXN00062,,Payment for test ,2025-01-07 11:14:00
+63,214,2500,Cash,TXN00063,,Payment for test ,2025-05-01 06:49:00
+64,215,0,HMO,TXN00064,4,Payment for test ,2025-02-15 05:16:00
+65,216,2500,Corporate,TXN00065,,Payment for test ,2025-05-04 09:26:00
+66,217,1500,Online,TXN00066,,Payment for test ,2025-02-22 07:54:00
+67,218,2500,Paystack,TXN00067,,Payment for test ,2025-01-03 14:58:00
+68,219,1800,Cash,TXN00068,,Payment for test ,2025-04-03 19:30:00
+69,220,2500,POS,TXN00069,,Payment for test ,2025-07-07 04:37:00
+70,221,2500,Online,TXN00070,,Payment for test ,2025-06-20 20:09:00
+71,222,0,HMO,TXN00071,,Payment for test ,2025-02-16 12:19:00
+72,223,12000,Corporate,TXN00072,,Payment for test ,2025-03-18 23:59:00
+73,224,3000,POS,TXN00073,,Payment for test ,2025-03-16 00:17:00
+74,225,0,HMO,TXN00074,5,Payment for test ,2025-03-11 19:50:00
+75,226,1800,MobileWallet,TXN00075,,Payment for test ,2024-11-15 19:23:00
+76,227,1500,Paystack,TXN00076,,Payment for test ,2025-06-11 22:14:00
+77,228,3000,Online,TXN00077,,Payment for test ,2025-03-12 20:58:00
+78,229,12000,HMO,TXN00078,4,Payment for test ,2024-11-11 01:30:00
+79,230,1800,MobileWallet,TXN00079,,Payment for test ,2024-09-08 21:54:00
+80,231,3000,Online,TXN00080,,Payment for test ,2024-12-31 01:45:00
+81,232,3500,Paystack,TXN00081,,Payment for test ,2024-08-07 19:21:00
+82,233,1500,HMO,TXN00082,1,Payment for test ,2025-01-10 09:32:00
+83,234,1800,MobileWallet,TXN00083,,Payment for test ,2024-12-31 00:33:00
+84,235,12000,Bank Transfer,TXN00084,,Payment for test ,2025-03-15 11:48:00
+85,236,3000,Corporate,TXN00085,,Payment for test ,2024-11-06 21:22:00
+86,237,0,HMO,TXN00086,2,Payment for test ,2025-05-17 13:12:00
+87,238,3000,Cash,TXN00087,,Payment for test ,2024-10-26 23:01:00
+88,239,3500,Bank Transfer,TXN00088,,Payment for test ,2025-02-26 23:18:00
+89,240,3000,Paystack,TXN00089,,Payment for test ,2024-08-04 02:26:00
+90,241,3500,HMO,TXN00090,1,Payment for test ,2024-11-26 23:13:00
+91,242,1500,Paystack,TXN00091,,Payment for test ,2025-01-24 07:36:00
+92,243,1500,Online,TXN00092,,Payment for test ,2024-08-11 02:23:00
+93,244,1500,MobileWallet,TXN00093,,Payment for test ,2024-11-10 20:05:00
+94,245,12000,MobileWallet,TXN00094,,Payment for test ,2025-01-06 14:37:00
+95,246,1500,Bank Transfer,TXN00095,,Payment for test ,2025-01-04 19:01:00
+96,247,12000,Online,TXN00096,,Payment for test ,2024-07-25 21:24:00
+97,248,2500,Cash,TXN00097,,Payment for test ,2024-08-04 09:07:00
+98,249,1800,Online,TXN00098,,Payment for test ,2024-12-03 11:45:00
+99,250,3000,HMO,TXN00099,2,Payment for test ,2025-05-30 06:51:00
+100,251,2500,Bank Transfer,TXN00100,,Payment for test ,2024-10-31 18:37:00
+101,252,0,HMO,TXN00101,2,Payment for test ,2024-08-11 02:03:00
+102,253,1800,Bank Transfer,TXN00102,,Payment for test ,2025-03-20 15:36:00
+103,254,12000,POS,TXN00103,,Payment for test ,2025-06-11 22:16:00
+104,255,2500,POS,TXN00104,,Payment for test ,2025-06-09 10:47:00
+105,256,3500,Paystack,TXN00105,,Payment for test ,2024-08-16 08:30:00
+106,257,3500,Online,TXN00106,,Payment for test ,2025-03-08 03:10:00
+107,258,0,HMO,TXN00107,3,Payment for test ,2025-03-01 00:06:00
+108,259,3500,Cash,TXN00108,,Payment for test ,2025-01-24 05:05:00
+109,260,1500,Online,TXN00109,,Payment for test ,2024-12-09 14:30:00
+110,261,2500,Cash,TXN00110,,Payment for test ,2025-01-06 23:39:00
+111,262,1800,Corporate,TXN00111,,Payment for test ,2025-02-21 15:56:00
+112,263,12000,Cash,TXN00112,,Payment for test ,2025-02-12 13:28:00
+113,264,3500,Paystack,TXN00113,,Payment for test ,2025-05-14 19:09:00
+114,265,3500,MobileWallet,TXN00114,,Payment for test ,2025-04-24 06:07:00
+115,266,12000,Cash,TXN00115,,Payment for test ,2025-06-25 05:03:00
+116,267,2500,Bank Transfer,TXN00116,,Payment for test ,2024-07-28 05:14:00
+117,268,1800,MobileWallet,TXN00117,,Payment for test ,2025-01-02 22:42:00
+118,269,1500,Paystack,TXN00118,,Payment for test ,2025-06-29 07:50:00
+119,270,12000,Paystack,TXN00119,,Payment for test ,2025-05-22 18:54:00
+120,271,1500,Online,TXN00120,,Payment for test ,2025-02-18 07:06:00
+121,272,0,HMO,TXN00121,2,Payment for test ,2025-03-23 10:26:00
+122,273,1500,Paystack,TXN00122,,Payment for test ,2024-09-24 09:23:00
+123,274,12000,MobileWallet,TXN00123,,Payment for test ,2024-11-15 03:43:00
+124,275,1800,POS,TXN00124,,Payment for test ,2025-03-03 05:56:00
+125,276,0,HMO,TXN00125,3,Payment for test ,2025-01-14 00:03:00
+126,277,3000,Online,TXN00126,,Payment for test ,2025-01-21 23:57:00
+127,278,3000,Corporate,TXN00127,,Payment for test ,2024-09-08 21:00:00
+128,279,0,HMO,TXN00128,1,Payment for test ,2024-08-05 07:35:00
+129,280,3500,Bank Transfer,TXN00129,,Payment for test ,2025-01-02 06:03:00
+130,281,1500,POS,TXN00130,,Payment for test ,2024-08-21 11:35:00
+131,282,0,HMO,TXN00131,2,Payment for test ,2025-05-22 05:38:00
+132,283,1500,MobileWallet,TXN00132,,Payment for test ,2025-06-26 11:20:00
+133,284,2500,Online,TXN00133,,Payment for test ,2025-06-02 11:48:00
+134,285,3000,MobileWallet,TXN00134,,Payment for test ,2024-11-22 15:57:00
+135,286,3000,MobileWallet,TXN00135,,Payment for test ,2025-04-16 16:46:00
+136,287,3500,Cash,TXN00136,,Payment for test ,2024-08-14 00:53:00
+137,288,0,HMO,TXN00137,,Payment for test ,2025-01-23 05:37:00
+138,289,12000,Cash,TXN00138,,Payment for test ,2025-03-21 05:13:00
+139,290,1800,Bank Transfer,TXN00139,,Payment for test ,2024-09-17 07:14:00
+140,291,12000,MobileWallet,TXN00140,,Payment for test ,2024-07-26 11:42:00
+141,292,1800,Corporate,TXN00141,,Payment for test ,2024-10-17 12:01:00
+142,293,1500,MobileWallet,TXN00142,,Payment for test ,2025-04-14 02:23:00
+143,294,2500,Bank Transfer,TXN00143,,Payment for test ,2024-12-30 07:04:00
+144,295,3500,MobileWallet,TXN00144,,Payment for test ,2024-12-29 22:35:00
+145,296,12000,Online,TXN00145,,Payment for test ,2025-01-30 19:33:00
+146,297,1500,POS,TXN00146,,Payment for test ,2025-01-31 07:14:00

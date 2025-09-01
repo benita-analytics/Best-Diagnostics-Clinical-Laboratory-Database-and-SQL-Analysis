@@ -1,0 +1,145 @@
+﻿resultID,requestID,testName,result_value,result_date,scientistID,scientist_comment,departmentID
+35,152,Full Blood Count (FBC/CBC),"Hb=132g/L,PCV=0.500L/L,MCV= 86fL,MCH=24.7pg,MCHC= 288g/L,RBC=5.86,platelet=326,Total WBC=6.6,Neutrophil = 55%,Lymphocytes=32%,Monocytes= 05%, Eosinophil=8%, basophil =0",2025-07-17 20:46:47,202,NULL,300
+36,153,Blood Group & Rhesus Typing,D+,2025-07-17 20:46:47,195,NULL,500
+37,154,Fasting Blood Sugar (FBS),4.9mmol/L,2025-07-17 20:46:47,199,Normal ,100
+38,155,Liver Function Test (LFT) Panel,"TP=12g/L, Albumin= 23.5g/L, TB=3.5mmol/L,DB=1.2mmol/L,ALP=12.2IU/L,AST=12.5IU/L, ALT=10.0IU/L, GGT= 213U/L",2025-07-17 20:46:47,198,NULL,100
+39,156,Malaria Parasite Test (MP),199.2 Parasite/uL ,2025-07-17 20:46:47,190,NULL,200
+40,157,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,191,NULL,200
+41,158,Liver Function Test (LFT) Panel,"TP=17g/L, Albumin= 33.5g/L, TB=4.2mmol/L,DB=1.2mmol/L,ALP=12.2IU/L,AST=12.5IU/L, ALT=10.0IU/L, GGT= 21U/L",2025-07-17 20:46:47,198,NULL,100
+42,159,Full Blood Count (FBC/CBC),"Hb=122g/L,PCV=0.320L/L,MCV= 84fL,MCH=24.7pg,MCHC= 288g/L,RBC=5.86,platelet=226,Total WBC=6.7, Neutrophil = 55%,Lymphocytes=32%,Monocytes= 05%, Eosinophil=8%, basophil =0",2025-07-17 20:46:47,203,NULL,300
+43,160,HIV Screening (Rapid),Positive,2025-07-17 20:46:47,205,NULL,700
+44,161,Hepatitis B Surface Antigen (HBsAg),Negative,2025-07-17 20:46:47,204,NULL,700
+45,162,Hepatitis C Virus Antibody (HCV Ab),Positive,2025-07-17 20:46:47,205,NULL,700
+46,163,Pregnancy Test (Urine ?-hCG),Positive,2025-07-17 20:46:47,197,NULL,700
+47,164,Stool MCS, No growth,2025-07-17 20:46:47,190,NULL,200
+48,165,Vaginal Swab MCS, No growth,2025-07-17 20:46:47,191,NULL,200
+49,166,VDRL (Syphilis) Test,Positive,2025-07-17 20:46:47,204,NULL,700
+50,167,Malaria Parasite Test (MP),32.5 Parasite/uL,2025-07-17 20:46:47,192,NULL,200
+51,168,Microfilaria Test,Microfilaria not detected,2025-07-17 20:46:47,191,NULL,300
+52,169,Blood Group & Rhesus Typing,A+,2025-07-17 20:46:47,196,NULL,500
+53,170,Clotting Time,6 minutes,2025-07-17 20:46:47,202,NULL,300
+54,171,Full Blood Count (FBC/CBC),"Hb=132g/L,PCV=0.120L/L,MCV= 86fL,MCH=24.7pg,MCHC= 288g/L,RBC=5.86,platelet=600,Total WBC=6.6,Neutrophil = 25%,Lymphocytes=12%,Monocytes=35%, Eosinophil=28%%, basophil =2%",2025-07-17 20:46:47,203,NULL,300
+55,172,COVID-19 Antibody Test,Positive,2025-07-17 20:46:47,200,NULL,700
+56,173,Blood Culture,No growth after 48 hours,2025-07-17 20:46:47,190,NULL,200
+57,174,Urine MCS,E.coli detected,2025-07-17 20:46:47,192,NULL,200
+58,175,Magnesium,2.0mmol/L,2025-07-17 20:46:47,197,NULL,100
+59,176,Vaginal Swab MCS,No growth ,2025-07-17 20:46:47,193,NULL,200
+60,177,ESR,22mm/hr,2025-07-17 20:46:47,200,NULL,300
+61,178,Rubella IgG/IgM,Rubella IgG: positive (120IU/mL) Rubella IgM: Negative(<5IU/mL),2025-07-17 20:46:47,204,NULL,700
+62,179,AFB (Tuberculosis - Sputum),no AFB seen,2025-07-17 20:46:47,192,NULL,200
+63,180,Calcium,9.2mg/dL,2025-07-17 20:46:47,197,NULL,100
+64,181,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,190,NULL,200
+65,182,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,190,NULL,200
+66,183,Malaria Parasite Test (MP),400.0 Paraiste/uL,2025-07-17 20:46:47,190,NULL,200
+67,184,Malaria Parasite Test (MP),25.4 Parasite/uL,2025-07-17 20:46:47,191,NULL,200
+68,185,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,191,NULL,200
+69,186,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,191,NULL,200
+70,187,Full Blood Count (FBC/CBC),"Hb=132g/L,PCV=0.500L/L,MCV= 86fL,MCH=24.7pg,MCHC= 288g/L,RBC=5.86,platelet=326,Total WBC=6.6,Neutrophil = 55%,Lymphocytes=32%,Monocytes= 05%, Eosinophil=8%, basophil =0",2025-07-17 20:46:47,202,NULL,300
+71,188,Malaria Parasite Test (MP),670.0 Parasite/uL,2025-07-17 20:46:47,193,NULL,200
+72,189,Full Blood Count (FBC/CBC),"Hb=202g/L,PCV=0.500L/L,MCV= 90fL,MCH=44.7pg,MCHC= 328g/L,RBC=5.86,platelet=126,Total WBC=7.6,Neutrophil = 55%,Lymphocytes=32%,Monocytes= 05%, Eosinophil=8%, basophil =0",2025-07-17 20:46:47,203,NULL,300
+73,190,Fasting Blood Sugar (FBS),4.3mmol/L,2025-07-17 20:46:47,197,NULL,100
+74,191,Full Blood Count (FBC/CBC),"Hb=202g/L,PCV=0.500L/L,MCV= 90fL,MCH=44.7pg,MCHC= 328g/L,RBC=5.86,platelet=126,Total WBC=7.6,Neutrophil = 55%,Lymphocytes=32%,Monocytes= 05%, Eosinophil=8%, basophil =0",2025-07-17 20:46:47,202,NULL,300
+75,192,Malaria Parasite Test (MP),3002.0 Parasite/uL,2025-07-17 20:46:47,192,NULL,200
+76,193,Urine MCS,No growth,2025-07-17 20:46:47,191,NULL,200
+77,194,Malaria Parasite Test (MP),"Hb=132g/L,PCV=0.720L/L,MCV= 86fL,MCH=24.7pg,MCHC= 288g/L,RBC=5.86,platelet=102,Total WBC=6.6,Neutrophil = 48%,Lymphocytes=22%,Monocytes= 20%, Eosinophil=10%, basophil =0",2025-07-17 20:46:47,192,NULL,200
+78,195,Full Blood Count (FBC/CBC),"Hb=132g/L,PCV=0.720L/L,MCV= 86fL,MCH=24.7pg,MCHC= 288g/L,RBC=5.86,platelet=102,Total WBC=6.6,Neutrophil = 48%,Lymphocytes=22%,Monocytes= 20%, Eosinophil=10%, basophil =1",2025-07-17 20:46:47,196,NULL,300
+79,196,Full Blood Count (FBC/CBC),"Hb=132g/L,PCV=0.720L/L,MCV= 86fL,MCH=24.7pg,MCHC= 288g/L,RBC=5.86,platelet=102,Total WBC=6.6,Neutrophil = 48%,Lymphocytes=22%,Monocytes= 20%, Eosinophil=10%, basophil =2",2025-07-17 20:46:47,196,NULL,300
+80,197,Reticulocyte Count,7%,2025-07-17 20:46:47,195,NULL,300
+81,198,Bleeding Time,3 minutes 15 seconds,2025-07-17 20:46:47,203,NULL,300
+82,199,Reticulocyte Count,1.20%,2025-07-17 20:46:47,202,NULL,300
+83,200,Full Blood Count (FBC/CBC),"Hb=232g/L,PCV=0.720L/L,MCV= 92fL,MCH=14.3pg,MCHC= 288g/L,RBC=5.86,platelet=102,Total WBC=6.6,Neutrophil = 48%,Lymphocytes=22%,Monocytes= 20%, Eosinophil=10%, basophil =2",2025-07-17 20:46:47,202,NULL,300
+84,201,Reticulocyte Count,2.50%,2025-07-17 20:46:47,195,NULL,300
+85,202,Clotting Time,2 minutes,2025-07-17 20:46:47,195,NULL,300
+86,203,ESR,12mm/hr,2025-07-17 20:46:47,196,NULL,300
+87,204,Clotting Time,13 minutes,2025-07-17 20:46:47,202,NULL,300
+88,205,Reticulocyte Count,3.20%,2025-07-17 20:46:47,203,NULL,300
+89,206,Blood Group & Rhesus Typing,O-,2025-07-17 20:46:47,196,NULL,500
+91,208,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,191,NULL,200
+92,209,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,191,NULL,200
+93,210,Malaria Parasite Test (MP),402.0 Parasite/uL,2025-07-17 20:46:47,191,NULL,200
+94,211,Malaria Parasite Test (MP),25.5 Parasite/uL,2025-07-17 20:46:47,191,NULL,200
+95,212,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,192,NULL,200
+96,213,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,192,NULL,200
+97,214,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,192,NULL,200
+98,215,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,192,NULL,200
+99,216,Full Blood Count (FBC/CBC),"Hb=232g/L,PCV=0.720L/L,MCV= 92fL,MCH=14.3pg,MCHC= 288g/L,RBC=5.86,platelet=102,Total WBC=6.6,Neutrophil = 48%,Lymphocytes=22%,Monocytes= 20%, Eosinophil=10%, basophil =2",2025-07-17 20:46:47,195,NULL,300
+100,217,Blood Group & Rhesus Typing,O+,2025-07-17 20:46:47,196,NULL,500
+101,218,Full Blood Count (FBC/CBC),"Hb=232g/L,PCV=0.320L/L,MCV= 92fL,MCH=14.3pg,MCHC= 288g/L,RBC=5.86,platelet=102,Total WBC=6.6,Neutrophil = 54%,Lymphocytes=32%,Monocytes= 10%, Eosinophil=2%, basophil =0",2025-07-17 20:46:47,202,NULL,300
+102,219,ESR,20mm/hr,2025-07-17 20:46:47,197,NULL,300
+103,220,Full Blood Count (FBC/CBC),"Hb=232g/L,PCV=0.320L/L,MCV= 92fL,MCH=14.3pg,MCHC= 288g/L,RBC=5.86,platelet=102,Total WBC=6.6,Neutrophil = 54%,Lymphocytes=32%,Monocytes= 10%, Eosinophil=2%, basophil =0",2025-07-17 20:46:47,197,NULL,300
+104,221,Full Blood Count (FBC/CBC),"Hb=232g/L,PCV=0.320L/L,MCV= 92fL,MCH=14.3pg,MCHC= 288g/L,RBC=5.86,platelet=102,Total WBC=6.6,Neutrophil = 54%,Lymphocytes=32%,Monocytes= 10%, Eosinophil=2%, basophil =1",2025-07-17 20:46:47,197,NULL,300
+105,222,Stool MCS,No growth,2025-07-17 20:46:47,190,NULL,200
+106,223,Stool MCS,"Growth : E.coli. Sensitivity:ciproflaxin, Amoxicilin",2025-07-17 20:46:47,192,NULL,200
+107,224,Stool MCS,"Growth:Salmonella spp. Sensitivity:Ceftriaxone, Azithromycin",2025-07-17 20:46:47,191,NULL,200
+108,225,Stool MCS,No growth,2025-07-17 20:46:47,191,NULL,200
+109,226,Stool MCS,No growth,2025-07-17 20:46:47,190,NULL,200
+110,227,Stool MCS,No growth,2025-07-17 20:46:47,190,NULL,200
+111,228,Stool MCS,No growth,2025-07-17 20:46:47,191,NULL,200
+112,229,Stool MCS,Growth: Shigella. Resistance : Ampicillin. Sensitivity: Gentamicin,2025-07-17 20:46:47,191,NULL,200
+113,230,Stool MCS,No growth,2025-07-17 20:46:47,190,NULL,200
+114,231,Reticulocyte Count,2.00%,2025-07-17 20:46:47,192,NULL,300
+115,232,Clotting Time,5 minutes ,2025-07-17 20:46:47,202,NULL,300
+116,233,Blood Group & Rhesus Typing,A+,2025-07-17 20:46:47,203,NULL,500
+117,234,ESR,12mm/hr,2025-07-17 20:46:47,195,NULL,300
+118,235,Bleeding Time,4 minutes 15 seconds,2025-07-17 20:46:47,195,NULL,300
+119,236,Reticulocyte Count,2.00%,2025-07-17 20:46:47,196,NULL,300
+120,237,ESR,12mm/hr,2025-07-17 20:46:47,202,NULL,300
+121,238,Reticulocyte Count,4.50%,2025-07-17 20:46:47,203,NULL,300
+122,239,Clotting Time,10 minutes,2025-07-17 20:46:47,202,NULL,300
+123,240,Reticulocyte Count,5.20%,2025-07-17 20:46:47,203,NULL,300
+124,241,Clotting Time,2 minutes,2025-07-17 20:46:47,202,NULL,300
+125,242,Blood Group & Rhesus Typing,O+,2025-07-17 20:46:47,195,NULL,500
+126,243,Blood Group & Rhesus Typing,O+,2025-07-17 20:46:47,195,NULL,500
+127,244,Blood Group & Rhesus Typing,O-,2025-07-17 20:46:47,196,NULL,500
+128,245,Bleeding Time,2 minutes ,2025-07-17 20:46:47,202,NULL,300
+129,246,Blood Group & Rhesus Typing,B+,2025-07-17 20:46:47,203,NULL,500
+130,247,Bleeding Time,5 minutes ,2025-07-17 20:46:47,203,NULL,300
+131,248,Full Blood Count (FBC/CBC),"Hb=232g/L,PCV=0.320L/L,MCV= 92fL,MCH=14.3pg,MCHC= 288g/L,RBC=5.86,platelet=102,Total WBC=6.6,Neutrophil = 54%,Lymphocytes=32%,Monocytes= 10%, Eosinophil=2%, basophil =0",2025-07-17 20:46:47,203,NULL,300
+132,249,ESR,10mm/hr,2025-07-17 20:46:47,194,NULL,300
+133,250,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,195,NULL,200
+134,251,Full Blood Count (FBC/CBC),"Hb=232g/L,PCV=0.320L/L,MCV= 92fL,MCH=14.3pg,MCHC= 288g/L,RBC=5.86,platelet=102,Total WBC=6.6,Neutrophil = 54%,Lymphocytes=32%,Monocytes= 10%, Eosinophil=2%, basophil =0",2025-07-17 20:46:47,204,NULL,300
+135,252,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,205,NULL,200
+136,253,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,191,NULL,200
+137,254,Malaria Parasite Test (MP),24.5 Parasite/uL,2025-07-17 20:46:47,190,NULL,200
+138,255,Malaria Parasite Test (MP),120 parasite/uL,2025-07-17 20:46:47,190,NULL,200
+139,256,Antistreptolysin O (ASO),250IU/mL,2025-07-17 20:46:47,198,NULL,700
+140,257,Clotting Time,9 minutes,2025-07-17 20:46:47,202,NULL,300
+141,258,Pregnancy Test (Urine ?-hCG),Positive,2025-07-17 20:46:47,204,NULL,700
+142,259,Testosterone (Total),550ng/dL,2025-07-17 20:46:47,199,NULL,100
+143,260,Testosterone (Total),230ng/dL,2025-07-17 20:46:47,197,NULL,100
+144,261,Full Blood Count (FBC/CBC),"Hb=102g/L,PCV=0.420L/L,MCV= 102fL,MCH=24.3pg,MCHC= 188g/L,RBC=5.86,platelet=502,Total WBC=10.6,Neutrophil = 64%,Lymphocytes=37%,Monocytes= 13%, Eosinophil=4%, basophil =0",2025-07-17 20:46:47,205,NULL,300
+145,262,ESR,20mm/hr,2025-07-17 20:46:47,202,NULL,300
+146,263,Bleeding Time,5 minutes ,2025-07-17 20:46:47,201,NULL,300
+147,264,Clotting Time,2 minutes,2025-07-17 20:46:47,202,NULL,300
+148,265,Clotting Time,2 minutes 25 seconds,2025-07-17 20:46:47,202,NULL,300
+149,266,Bleeding Time,5 minutes ,2025-07-17 20:46:47,202,NULL,300
+150,267,Full Blood Count (FBC/CBC),"Hb=102g/L,PCV=0.320L/L,MCV= 102fL,MCH=24.3pg,MCHC= 188g/L,RBC=5.86,platelet=502,Total WBC=10.6,Neutrophil = 64%,Lymphocytes=37%,Monocytes= 13%, Eosinophil=4%, basophil =0",2025-07-17 20:46:47,201,NULL,300
+151,268,ESR,22mm/hr,2025-07-17 20:46:47,202,NULL,300
+152,269,Blood Group & Rhesus Typing,O+,2025-07-17 20:46:47,195,NULL,500
+153,270,Widal Test,"O- 1:160, H-1:8-",2025-07-17 20:46:47,191,NULL,200
+154,271,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,192,NULL,200
+155,272,VDRL (Syphilis) Test,Positive,2025-07-17 20:46:47,204,NULL,700
+157,274,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,192,NULL,200
+158,275,ESR,4mm/hr,2025-07-17 20:46:47,202,NULL,300
+159,276,Stool MCS,No growth ,2025-07-17 20:46:47,204,NULL,200
+160,277,Stool MCS,No growth ,2025-07-17 20:46:47,205,NULL,200
+161,278,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,190,NULL,200
+162,279,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,190,NULL,200
+163,280,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,190,NULL,200
+164,281,Malaria Parasite Test (MP),127.5 Parasite/uL,2025-07-17 20:46:47,190,NULL,200
+165,282,Malaria Parasite Test (MP),25.5 Parasite/uL,2025-07-17 20:46:47,191,NULL,200
+166,283,Malaria Parasite Test (MP),32.0 Parasite/uL,2025-07-17 20:46:47,191,NULL,200
+167,284,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,191,NULL,200
+168,285,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,191,NULL,200
+169,286,Malaria Parasite Test (MP),200 Parasite/uL,2025-07-17 20:46:47,191,NULL,200
+170,287,Malaria Parasite Test (MP),No Malaria parasite seen,2025-07-17 20:46:47,192,NULL,200
+171,288,Widal Test,"O- 1:160, H-1:8-",2025-07-17 20:46:47,192,NULL,200
+172,289,Liver Function Test (LFT) Panel,"TP=12g/L, Albumin= 23.5g/L, TB=3.5mmol/L,DB=1.2mmol/L,ALP=12.2IU/L,AST=12.5IU/L, ALT=10.0IU/L, GGT= 213U/L",2025-07-17 20:46:47,197,NULL,100
+173,290,Liver Function Test (LFT) Panel,"TP=12g/L, Albumin= 23.5g/L, TB=3.5mmol/L,DB=1.2mmol/L,ALP=12.2IU/L,AST=12.5IU/L, ALT=10.0IU/L, GGT= 213U/L",2025-07-17 20:46:47,198,NULL,100
+174,291,Liver Function Test (LFT) Panel,"TP=12g/L, Albumin= 23.5g/L, TB=3.5mmol/L,DB=1.2mmol/L,ALP=12.2IU/L,AST=12.5IU/L, ALT=10.0IU/L, GGT= 213U/L",2025-07-17 20:46:47,199,NULL,100
+175,292,Liver Function Test (LFT) Panel,"TP=12g/L, Albumin= 23.5g/L, TB=3.5mmol/L,DB=1.2mmol/L,ALP=12.2IU/L,AST=12.5IU/L, ALT=10.0IU/L, GGT= 213U/L",2025-07-17 20:46:47,197,NULL,100
+176,293,Liver Function Test (LFT) Panel,"TP=12g/L, Albumin= 23.5g/L, TB=3.5mmol/L,DB=1.2mmol/L,ALP=12.2IU/L,AST=12.5IU/L, ALT=10.0IU/L, GGT= 213U/L",2025-07-17 20:46:47,199,NULL,100
+177,294,Liver Function Test (LFT) Panel,"TP=12g/L, Albumin= 23.5g/L, TB=3.5mmol/L,DB=1.2mmol/L,ALP=12.2IU/L,AST=12.5IU/L, ALT=10.0IU/L, GGT= 213U/L",2025-07-17 20:46:47,198,NULL,100
+178,295,Clotting Time,2 minutes ,2025-07-17 20:46:47,204,NULL,300
+179,296,Urine MCS,No growth,2025-07-17 20:46:47,196,NULL,200
+180,297,Urine MCS,No growth,2025-07-17 20:46:47,192,NULL,200

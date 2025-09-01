@@ -1,0 +1,63 @@
+testID,test_name,price,departmentID
+1,Full Blood Count (FBC/CBC),3000,300
+2,ESR,2000,300
+3,Blood Group & Rhesus Typing,2000,500
+4,Clotting Time,2500,300
+5,Bleeding Time,2500,300
+6,Reticulocyte Count,4000,300
+7,Sickle Cell Screening (Sickling),2000,300
+8,Haemoglobin Electrophoresis,5000,300
+9,Prothrombin Time (PT),5000,300
+10,aPTT (Activated Partial Thromboplastin Time),6000,300
+11,Fasting Blood Sugar (FBS),2000,100
+12,Random Blood Sugar (RBS),1500,100
+13,Oral Glucose Tolerance Test (OGTT),5000,100
+14,Urea,2000,100
+15,Creatinine,2000,100
+16,Uric Acid,2000,100
+17,Liver Function Test (LFT) Panel,8000,100
+18,Bilirubin (Total and Direct),2000,100
+19,AST (SGOT),2500,100
+20,ALT (SGPT),2500,100
+21,ALP (Alkaline Phosphatase),2500,100
+22,GGT,4000,100
+23,Total Protein & Albumin,3000,100
+24,Lipid Profile,6000,100
+25,Calcium,2000,100
+26,Phosphate,2000,100
+27,Magnesium,3000,100
+28,Urine MCS,3500,200
+29,Stool MCS,3500,200
+30,Blood Culture,6000,200
+31,Widal Test,2000,200
+32,Malaria Parasite Test (MP),1500,200
+33,HIV Screening (Rapid),2000,700
+34,H. Pylori Antigen Test,5000,200
+35,AFB (Tuberculosis - Sputum),4000,200
+36,Vaginal Swab MCS,4000,200
+37,Semen Analysis + MCS,6000,200
+38,Hepatitis B Surface Antigen (HBsAg),3000,700
+39,Hepatitis C Virus Antibody (HCV Ab),3000,700
+40,VDRL (Syphilis) Test,2000,700
+41,Rheumatoid Factor (RF),4000,700
+42,C-Reactive Protein (CRP),4000,700
+43,Antistreptolysin O (ASO),3500,700
+44,Toxoplasmosis IgG/IgM,5000,700
+45,Rubella IgG/IgM,4500,700
+46,COVID-19 Antibody Test,4000,700
+47,Pregnancy Test (Urine ?-hCG),1500,700
+48,Serum ?-hCG (Quantitative),5000,100
+49,Prolactin,5000,100
+50,FSH & LH,6000,100
+51,Estradiol,6000,100
+52,Testosterone (Total),6000,100
+53,Insulin (Fasting),7000,100
+54,Cortisol,6000,100
+55,Pap Smear,6000,400
+56,FNAC (Fine Needle Aspiration),10000,400
+57,Small Biopsy,15000,400
+58,Large Histology Sample,30000,NULL
+59,Stool Microscopy,1500,200
+60,Blood Film for Parasites,1500,300
+61,Microfilaria Test,3000,300
+62,Skin Snip (Onchocerciasis),4000,200
