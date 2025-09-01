@@ -53,56 +53,58 @@ The ERD models relationships between:
 
 ## Project Structure
 
+├── schema/           
+├── data/           
+├── insert/  
+├── queries/                 
+├── ERD/               
+├── README.md         
+└── LICENSE
 
-
-
-
-## Example Queries  
-
+## Insights Generated
 Some insights generated from this database include:
-
 - Frequently requested laboratory tests
 - Departmental workload
 - Inactive assets
 - Patient request frequency
 - HMO value analysis
 
+### Example Query:
+**1. HMO Value Analysis**
+**Question:** Which HMOs brought in the most test volume and revenue?  
+**Insight:** Shows which HMOs contribute most to the business.  
+
+```sql
+SELECT h.hmo_name,h.hmoid,count (p.paymentID) as HMOVolume, sum(p.amount_paid) as total_paid
+from HMO h
+JOIN Payment p
+ON h.hmoID=p.hmo_id
+GROUP BY h.hmoid, h.hmo_name
+ORDER BY total_paid DESC;
+```
+**2. Test Profitability**
+**Question:** What is the total revenue per test type?
+**Insight:** It helps find which tests are not only popular, but profitable
+
+```sql
+SELECT t.testid,t.test_name,COUNT (p.requestid)no_of_tests ,SUM (p.amount_paid)AS total_revenue
+FROM Test AS t
+JOIN Testrequest AS tr
+on t.testid=tr.testid
+JOIN payment as p
+ON tr.requestID=p.requestId
+GROUP BY t.testid, t.test_name
+ORDER BY total_revenue DESC;
+```
 
 ## License
  This project is licensed under the MIT License.
 
 ## Author
-Benita Nworji
+**Benita Nworji**  
+Medical Laboratory Scientist | Data Analyst  
 
-Medical Laboratory Scientist | Data Analyst
-
-Passionate about combining healthcare and data to improve diagnostics
-
-<img width="44" height="41" alt="image" src="https://github.com/user-attachments/assets/0ca6853a-57f4-46c5-979e-fb1454b2a190" />
- www.linkedin.com/in/benita-nworji
-
-## 💼
+🔗 [LinkedIn](https://www.linkedin.com/in/benita-nworji)  
+ ✉️ benitanworji01@gmail.com 
 
 
-
-![SQL](https://img.shields.io/badge/SQL-Server-blue) 
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
-
-
-
-
-
-
-
-
-
-
-
-📁 Best-Diagnostics
- ┣ 📜 schema.sql        # SQL scripts for table creation
- ┣ 📜 data_insertion.sql # Sample data population
- ┣ 📜 queries.sql       # Analytical SQL queries
- ┣ 📜 erd.png           # Entity-Relationship Diagram
- ┗ 📜 README.md         # Project documentation
